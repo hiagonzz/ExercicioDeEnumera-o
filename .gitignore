@@ -1,0 +1,8 @@
+# Ignorar arquivos do Visual Studio Code
+.vscode/
+
+# Ignorar a pasta bin
+bin/
+
+# Ignorar a pasta lib
+lib/
